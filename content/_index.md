@@ -16,7 +16,7 @@ draft: false
  You can insert links eg [to Moroccocan Corridor](https://www.moroccancorridor.com/collections/mdina-collection?page=3)
 
 You can inset a photo like this:
-![Moroccan mint tea](Moroccan_tea.jpg)
+![Moroccan mint tea](/images/Moroccan_tea.jpg)
 
  >im not actually sure what this does but its indented it
 
