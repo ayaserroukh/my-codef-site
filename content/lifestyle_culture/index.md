@@ -6,3 +6,4 @@ featured_image: "/images/medina_blue.jpg"
 menu: "places"
 ---
 
+This is still not complete but ever heard of a moroccan hammam? 
