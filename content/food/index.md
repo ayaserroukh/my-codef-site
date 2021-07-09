@@ -7,7 +7,7 @@ featured_image: "/images/spices.jpg"
 menu: "places"
 ---
 
-Moroccan cuisine is influenced by Morocco's interactions and exchanges with other cultures and nations over the centuries. Spices are extensively used and recipe has a special seasoning, and brings out its own flavour and colour.
+Moroccan cuisine is influenced by Morocco's interactions and exchanges with other cultures and nations over the centuries. Spices are extensively used and each recipe has a special seasoning, and brings out its own flavour and colour.
 
 
 
